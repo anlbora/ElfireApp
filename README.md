@@ -55,6 +55,10 @@ With its modular architecture and user-friendly graphical interface, ElfireApp e
 ![Image](https://github.com/user-attachments/assets/ad2f251b-0ba7-47a9-a0ea-e3b673316db3)
 
 
+### Compare Curves
+- Comparing different curves with importing csv files. 
+
+
 ### 💾 Export Options
 - Export fire data to `.csv`, `.txt`, `.html`, or `.elf` (custom save file)
 - Save full report packages including screenshots and comparison charts
