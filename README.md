@@ -9,6 +9,8 @@
 
 With its modular architecture and user-friendly graphical interface, ElfireApp enables professionals to simulate realistic fire scenarios based on geometric, material, and risk-related parameters.
 
+![Image](https://github.com/user-attachments/assets/ad2f251b-0ba7-47a9-a0ea-e3b673316db3)
+
 ---
 
 ## 🧮 Core Features
@@ -42,7 +44,6 @@ With its modular architecture and user-friendly graphical interface, ElfireApp e
   - **Ventilation-Controlled Fires**
   - **Fuel-Controlled Fires**
 - Determine max temperature, duration, and other critical fire parameters
-![Image](https://github.com/user-attachments/assets/ad2f251b-0ba7-47a9-a0ea-e3b673316db3)
 ![Image](https://github.com/user-attachments/assets/f97302ad-f160-4401-8d2f-d3eb2ff92f73)
 ![Image](https://github.com/user-attachments/assets/8476a93d-53d9-43d5-834b-51695b6bb4fe)
 
