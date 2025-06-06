@@ -8,9 +8,7 @@
 **ElfireApp** is a Windows Forms-based engineering software designed to model fire growth and temperature development in enclosures. It allows users to calculate **Eurocode-based parametric fire curves**, as well as compare them with **ISO 834**, **Hydrocarbon**, and **ASTM E119** standard time-temperature curves.
 
 With its modular architecture and user-friendly graphical interface, ElfireApp enables professionals to simulate realistic fire scenarios based on geometric, material, and risk-related parameters.
-
-![Image](https://github.com/user-attachments/assets/ad2f251b-0ba7-47a9-a0ea-e3b673316db3)
-
+![Image](https://github.com/user-attachments/assets/763dd41c-0fc1-4aeb-9647-8b25be2609c9)
 ---
 
 ## 🧮 Core Features
@@ -54,8 +52,8 @@ With its modular architecture and user-friendly graphical interface, ElfireApp e
   - Hydrocarbon Fire Curve  
   - ASTM E119  
   - User-calculated Eurocode curves
+![Image](https://github.com/user-attachments/assets/ad2f251b-0ba7-47a9-a0ea-e3b673316db3)
 ![Image](https://github.com/user-attachments/assets/8476a93d-53d9-43d5-834b-51695b6bb4fe)
-![Image](https://github.com/user-attachments/assets/763dd41c-0fc1-4aeb-9647-8b25be2609c9)
 
 ### 💾 Export Options
 - Export fire data to `.csv`, `.txt`, `.html`, or `.elf` (custom save file)
