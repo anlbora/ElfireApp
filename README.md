@@ -10,15 +10,6 @@
 With its modular architecture and user-friendly graphical interface, ElfireApp enables professionals to simulate realistic fire scenarios based on geometric, material, and risk-related parameters.
 
 ---
-![Image](https://github.com/user-attachments/assets/775aa616-9e76-45ab-979a-54f8b6a53eaf)
-
-
-![Image](https://github.com/user-attachments/assets/e106bb12-fafd-41fc-ac41-55b7f91ac360)
-![Image](https://github.com/user-attachments/assets/1dd22c8f-408b-4728-aa3c-a91dc8a76823)
-![Image](https://github.com/user-attachments/assets/56707d8f-505d-418a-8e85-7cc1d943f8c0)
-![Image](https://github.com/user-attachments/assets/74008d74-2a96-4faf-9807-e7841b09a203)
-
-
 
 ## 🧮 Core Features
 
@@ -114,14 +105,6 @@ ElfireApp/
 
 ---
 
-## 📸 Sample Screens
-
-| Curve Comparison | Eurocode Comparison | Eurocode Curve UI |
-|------------------|---------------------|-------------------|
-| ![Compare Curves](screenshots/compare_curves.png) | ![Eurocode Comparison](screenshots/eurocode_comparison.png) | ![Curve UI](screenshots/eurocode_curve.png) |
-
----
-
 ## 🔍 Future Enhancements
 
 - [ ] Integration with **LiveCharts** or **OxyPlot** for advanced graphing  
@@ -130,17 +113,5 @@ ElfireApp/
 - [ ] Advanced export templates (PDF)
 
 ---
-
-## 👨‍💻 Author
-
-Developed by **Anıl Bora**  
-Doctoral Researcher in Structural Fire Engineering  
-İzmir Institute of Technology
-
----
-
-## 📜 License
-
-This project is licensed for academic and educational use only. Contact the author for commercial or research applications.
 
 
