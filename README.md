@@ -56,7 +56,10 @@ With its modular architecture and user-friendly graphical interface, ElfireApp e
 
 
 ### Compare Curves
-- Comparing different curves with importing csv files. 
+- Comparing different curves with importing csv files.
+![Image](https://github.com/user-attachments/assets/ad334ed8-0b82-4614-bc54-fa66251a211b)
+![Image](https://github.com/user-attachments/assets/cbfc9a20-29c0-4b14-b8ec-89fa6519447c)
+![Image](https://github.com/user-attachments/assets/548726b1-a681-4c88-8aad-65aaabf3d88c)
 
 
 ### 💾 Export Options
