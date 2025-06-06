@@ -10,28 +10,50 @@
 With its modular architecture and user-friendly graphical interface, ElfireApp enables professionals to simulate realistic fire scenarios based on geometric, material, and risk-related parameters.
 
 ---
+![Image](https://github.com/user-attachments/assets/775aa616-9e76-45ab-979a-54f8b6a53eaf)
+
+
+![Image](https://github.com/user-attachments/assets/e106bb12-fafd-41fc-ac41-55b7f91ac360)
+![Image](https://github.com/user-attachments/assets/1dd22c8f-408b-4728-aa3c-a91dc8a76823)
+![Image](https://github.com/user-attachments/assets/56707d8f-505d-418a-8e85-7cc1d943f8c0)
+![Image](https://github.com/user-attachments/assets/74008d74-2a96-4faf-9807-e7841b09a203)
+
+
 
 ## 🧮 Core Features
 
 ### 🔧 Compartment Designer
+![Image](https://github.com/user-attachments/assets/9db1f2eb-f1c9-496c-acde-5c2e4b58942f)
+
 - Define **geometry**: length, width, height
 - Calculate **enclosure**, **wall**, **ceiling**, and **floor areas**
+![Image](https://github.com/user-attachments/assets/aa332273-8654-4389-8b14-3f0627aa8f35)
+
 - Add openings manually or calculate via **opening factor**
+![Image](https://github.com/user-attachments/assets/ef4fa090-c1f9-4a8b-b2b3-2bd491c7a8fe)
 
 ### 🧱 Material Properties
 - Select or define new materials for **walls**, **floor**, and **ceiling**
 - Automatically computes **thermal inertia** of the compartment
+![Image](https://github.com/user-attachments/assets/f7655a48-fd08-47a9-ba78-6ddb47929b08)
+![Image](https://github.com/user-attachments/assets/966bda7f-107a-4eeb-854d-bae6d17279b1)
+![Image](https://github.com/user-attachments/assets/4816f92c-61a8-4a32-a286-f80e5fb0152a)
 
 ### 🔥 Design Fire Parameters
 - Import fire load & ROFI data (Occupancy / Floor Area)
 - Apply **risk factors** based on real occupancy types and area categories
 - Customize **combustion factor**, **fire duration**, and **suppression coefficient**
+![Image](https://github.com/user-attachments/assets/368d8cfb-181e-453d-9b45-dad35ac81e2b)
+![Image](https://github.com/user-attachments/assets/7a9c365e-a310-40e1-a10f-f354b0f94085)
 
 ### 📈 Curve Generation
 - Calculate temperature-time data for:
   - **Ventilation-Controlled Fires**
   - **Fuel-Controlled Fires**
 - Determine max temperature, duration, and other critical fire parameters
+![Image](https://github.com/user-attachments/assets/ad2f251b-0ba7-47a9-a0ea-e3b673316db3)
+![Image](https://github.com/user-attachments/assets/f97302ad-f160-4401-8d2f-d3eb2ff92f73)
+![Image](https://github.com/user-attachments/assets/8476a93d-53d9-43d5-834b-51695b6bb4fe)
 
 ### 📊 Visualization
 - Dynamic plotting of fire curves (with tooltips, phase filling, labels)
@@ -40,6 +62,8 @@ With its modular architecture and user-friendly graphical interface, ElfireApp e
   - Hydrocarbon Fire Curve  
   - ASTM E119  
   - User-calculated Eurocode curves
+![Image](https://github.com/user-attachments/assets/8476a93d-53d9-43d5-834b-51695b6bb4fe)
+![Image](https://github.com/user-attachments/assets/763dd41c-0fc1-4aeb-9647-8b25be2609c9)
 
 ### 💾 Export Options
 - Export fire data to `.csv`, `.txt`, `.html`, or `.elf` (custom save file)
